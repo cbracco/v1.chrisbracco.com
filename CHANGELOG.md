@@ -1,3 +1,7 @@
+# 1.0.0 (March 15, 2021)
+
+- Minor updates to production URL for archiving to v1.chrisbracco.com
+
 # 0.1.1 (January 2, 2018)
 
 - Update Travis CI build to use the new built-in [GitHub Pages deploy feature](https://docs.travis-ci.com/user/deployment/pages/).
