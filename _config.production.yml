@@ -3,7 +3,7 @@
 #
 
 # Routes
-url: "https://chrisbracco.com"
+url: "https://v1.chrisbracco.com"
 
 # Publishing
 future: false
